@@ -18,8 +18,13 @@
 
 ## 🚧 Projeto
 
-Este repositório é somente os assets da aplicação. Para acessar o repositório oficial é só acessar o link abaixo:
+Este repositório é somente os assets da aplicação.
+Para acessar o repositório oficial é só acessar o link abaixo:
 
-## [Pomo Sound](https://github.com/birobirobiro/pomo-sound)
+<h1 align="center">
+  <a href"https://github.com/birobirobiro/pomo-sound">PomoSound</a>
+</h1>
 
+<p align="center">
 Feito com ♥ by birobirobiro
+</p>
